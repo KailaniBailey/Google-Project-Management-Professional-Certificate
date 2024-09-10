@@ -1,1 +1,2 @@
-# Google Project Management Professional Certificate
+![google](https://github.com/user-attachments/assets/170d8832-e565-4e36-8457-27a612500977)
+# About the Google Project Management Professional Certificate
