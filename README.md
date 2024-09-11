@@ -2,6 +2,12 @@
 # About the Google Project Management Professional Certificate
 # Summary of This Repository
 # Completed Courses and Certificates
+- Course 1: Foundations of Project Management
+- Course 2: Project Initiation: Starting a Successful Project
+- Course 3: Project Planning: Putting It All Together
+- Course 4: Project Execution: Running the Project
+- Course 5: Agile Project Management
+- Course 6: Capstone: Applying Project Management in the Real World
 ## Course Objectives
 - Gain an immersive understanding of the practices and skills needed to succeed in any entry-level project management role
 - Learn the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles
