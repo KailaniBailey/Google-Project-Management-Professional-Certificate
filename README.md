@@ -10,7 +10,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - Course 3: [Project Planning: Putting It All Together](https://github.com/KailaniBailey/Google-Project-Management-Professional-Certificate/tree/main/Course%203:%20Project%20Planning:%20Putting%20It%20All%20Together)
 - Course 4: [Project Execution: Running the Project](https://github.com/KailaniBailey/Google-Project-Management-Professional-Certificate/tree/main/Course%204:%20Project%20Execution:%20Running%20the%20Project)
 - Course 5: [Agile Project Management](https://github.com/KailaniBailey/Google-Project-Management-Professional-Certificate/tree/main/Course%205:%20Agile%20Project%20Management)
-- Course 6: Capstone: Applying Project Management in the Real World
+- Course 6: [Capstone: Applying Project Management in the Real World](https://github.com/KailaniBailey/Google-Project-Management-Professional-Certificate/tree/main/Course%206:%20Capstone:%20Applying%20Project%20Management%20in%20the%20Real%20World)
 ## Course Objectives
 - Gain an immersive understanding of the practices and skills needed to succeed in any entry-level project management role
 - Learn the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles
