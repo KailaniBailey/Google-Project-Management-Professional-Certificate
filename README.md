@@ -6,7 +6,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 **Additional Info:** Please scroll down to view the employer-recognized Project Management Professional Certificate from Google and verification link.
 # Completed Courses and Certificates
 - Course 1: [Foundations of Project Management](https://github.com/KailaniBailey/Google-Project-Management-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20Project%20Management)
-- Course 2: Project Initiation: Starting a Successful Project
+- Course 2: [Project Initiation: Starting a Successful Project](https://github.com/KailaniBailey/Google-Project-Management-Professional-Certificate/tree/main/Course%202:%20Project%20Initiation:%20Starting%20a%20Successful%20Project)
 - Course 3: Project Planning: Putting It All Together
 - Course 4: Project Execution: Running the Project
 - Course 5: Agile Project Management
