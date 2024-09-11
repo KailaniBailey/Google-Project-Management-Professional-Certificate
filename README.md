@@ -1,6 +1,9 @@
 ![google](https://github.com/user-attachments/assets/170d8832-e565-4e36-8457-27a612500977)
 # About the Google Project Management Professional Certificate
 # Summary of This Repository
+This repository contains select course content, relevant notes, bits of code, final projects, quiz grades, and proof of certification for each course.
+
+**Additional Info:** Please scroll down to view the employer-recognized Project Management Professional Certificate from Google and verification link.
 # Completed Courses and Certificates
 - Course 1: Foundations of Project Management
 - Course 2: Project Initiation: Starting a Successful Project
