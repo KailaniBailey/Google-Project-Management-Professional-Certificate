@@ -3,5 +3,29 @@
 # Summary of This Repository
 # Completed Courses and Certificates
 ## Course Objectives
+- Gain an immersive understanding of the practices and skills needed to succeed in any entry-level project management role
+- Learn the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles
+- Learn how to create effective project documentation and artifacts throughout the various phases of a project
+- Practice strategic communication, problem-solving, and stakeholder management through real-world scenarios
 ## Skills for Project Management
+- Project Management
+- Organizational Culture
+- Agile Management
+- Change Management
+- Risk Management
+- Problem Solving
+- Strategic Thinking
+- Quality Management
+- Career Development
+- Project Execution
+- Coaching
+- Scrum
+- Influencing
+- Effective Communication
+- Stakeholder Management
+- Business Writing
+- Project Charter
+- Procurement
+- Task Estimation
+- Project Planning
 # My Employer-Recognized Certificate from Google
